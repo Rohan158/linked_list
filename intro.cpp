@@ -83,6 +83,8 @@ int main()
    cout<<"insertion at bet "<<endl;
    insertbet(head,55,2);
    printlin(head);
+
+//    helloba
     
     return 0;
 }
